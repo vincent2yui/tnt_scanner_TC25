@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:states_rebuilder/states_rebuilder.dart';
-import 'package:tnt_scanner/services/login_service.dart';
-import 'package:tnt_scanner/util/constant.dart';
-import 'package:tnt_scanner/widgets/login_form.dart';
+
+import '../services/login_service.dart';
+import '../util/constant.dart';
+import '../widgets/login_form.dart';
 
 class LoginPage extends StatelessWidget {
   const LoginPage({Key key}) : super(key: key);
