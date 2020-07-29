@@ -40,7 +40,7 @@ class SettingsService {
       color: kColorWhite,
       iconTheme: IconThemeData(color: kPrimaryColor),
       textTheme: TextTheme(
-        title: TextStyle(
+        headline6: TextStyle(
           color: kColorBlack,
           fontSize: 20,
           fontWeight: FontWeight.bold,
@@ -57,7 +57,7 @@ class SettingsService {
       color: kColorBlack,
       iconTheme: IconThemeData(color: kPrimaryColor),
       textTheme: TextTheme(
-        title: TextStyle(
+        headline6: TextStyle(
           color: kColorWhite,
           fontSize: 20,
           fontWeight: FontWeight.bold,

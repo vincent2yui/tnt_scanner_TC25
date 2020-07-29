@@ -26,7 +26,7 @@ void main() {
               //Language Translation
               locale: settingsService.state.appLocal,
               supportedLocales: [
-                Locale('en', 'US'),
+                Locale('en', ''),
                 Locale('ar', ''),
               ],
               localizationsDelegates: [
